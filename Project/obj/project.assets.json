@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\svetl\\Desktop\\Семинар 1\\Project\\Project.csproj",
+      "projectUniqueName": "C:\\Users\\svetl\\Desktop\\Семинар\\Project\\Project.csproj",
       "projectName": "Project",
-      "projectPath": "C:\\Users\\svetl\\Desktop\\Семинар 1\\Project\\Project.csproj",
+      "projectPath": "C:\\Users\\svetl\\Desktop\\Семинар\\Project\\Project.csproj",
       "packagesPath": "C:\\Users\\svetl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\svetl\\Desktop\\Семинар 1\\Project\\obj\\",
+      "outputPath": "C:\\Users\\svetl\\Desktop\\Семинар\\Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\svetl\\AppData\\Roaming\\NuGet\\NuGet.Config"
